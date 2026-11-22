@@ -41,7 +41,7 @@ The dashboard transforms raw sales data into meaningful visual insights, helping
 
 📈 Dashboard Preview
 
-"365 Coffee Café Dashboard" (365%20Coffee%20Cafe%20Dashboard.png)
+"365 Coffee Café Dashboard" 365 Coffee Cafee Dashboard.png
 
 📁 Project Files
 
