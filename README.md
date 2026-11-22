@@ -41,7 +41,7 @@ The dashboard transforms raw sales data into meaningful visual insights, helping
 
 📈 Dashboard Preview
 
-"365 Coffee Café Dashboard" 365 Coffee Cafee Dashboard.png
+"365 Coffee Café Dashboard" https://github.com/aniqa-data-analytics/365-Coffee-Cafe-Sales-Dashboard/blob/main/365%20Coffee%20Cafee%20Dashboard.png?raw=true
 
 📁 Project Files
 
